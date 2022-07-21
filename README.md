@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Building REST APIs**
 
-- 🌱 I’m currently learning **React JS, Android**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://vvarj.github.io/PersonalWebsite/](https://vvarj.github.io/PersonalWebsite/)
 
